@@ -1,3 +1,11 @@
 Packing list
 -------------
 - shoes
+- shorts
+- jacket
+
+Picnic
+----------
+Sandwich
+water
+fruit
